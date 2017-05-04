@@ -1,0 +1,38 @@
+{
+  "name": "riotriot-filecore",
+  "targetlocation": "./inbound/",
+  "resultlocation": "./data/",
+  "extensionmapping": {
+    "images": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".gif",
+      ".svg"
+    ],
+    "videos": [
+      ".mp4",
+      ".mov"
+    ],
+    "music": [
+      ".mp3",
+      ".oog"
+    ],
+    "documents": [
+      ".doc",
+      ".txt",
+      ".csv",
+      ".pdf",
+      ".xls",
+      ".xlsx"
+    ],
+    "archives": [
+      ".zip",
+      ".tar.gz",
+      "out.tar.gz"
+    ],
+    "other": [
+      ".DS_Store"
+    ]
+  }
+}
